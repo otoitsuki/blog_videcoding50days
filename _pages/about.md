@@ -6,7 +6,6 @@ subtitle: 10 年軟體規劃與設計經驗，擁有產品思維與設計思考�
 
 profile:
   align: right
-  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>軟體開發、產品設計與技術思考</p>

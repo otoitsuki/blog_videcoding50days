@@ -84,8 +84,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Vide Coding 50 Days # blog_name will be displayed in your blog page
-blog_description: 軟體開發、產品設計與技術思考的 50 天挑戰
+blog_name: Vide Coding 30 Days # blog_name will be displayed in your blog page
+blog_description: 30 天挑戰，每天學習一個新技術。
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
